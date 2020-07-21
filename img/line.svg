@@ -1,0 +1,18 @@
+<svg width="1500" height="393" viewBox="0 0 1500 393" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="393">
+<rect width="1500" height="393" fill="#2B2B2B"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="1154.21" y1="-14.452" x2="1548.05" y2="171.891" stroke="#FAF7F7"/>
+<line x1="1386.34" y1="-38.292" x2="1075.41" y2="393.292" stroke="#FAF7F7"/>
+<line x1="956.447" y1="-78.2237" x2="1194.47" y2="397.474" stroke="#FAF7F7"/>
+<line x1="1692.21" y1="194.462" x2="1201.19" y2="399.01" stroke="#FAF7F7"/>
+<line x1="1652.94" y1="488.108" x2="1170.79" y2="263.453" stroke="#FAF7F7"/>
+<line x1="1050.7" y1="108.348" x2="680.359" y2="490.177" stroke="#FAF7F7"/>
+<circle cx="1049" cy="110" r="6" fill="white"/>
+<circle cx="1315" cy="61" r="6" fill="white"/>
+<circle cx="1171" cy="262" r="6" fill="white"/>
+<circle cx="1145" cy="297" r="6" fill="white"/>
+<circle cx="1339" cy="342" r="6" fill="white"/>
+</g>
+</svg>
